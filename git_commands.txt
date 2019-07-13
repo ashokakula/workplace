@@ -1,0 +1,8 @@
+Git commands
+=======================
+
+git init ---> to initialize the git repository 
+
+
+git clone ---> to clone the git repositiry
+
